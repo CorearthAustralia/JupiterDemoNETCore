@@ -17,6 +17,9 @@ namespace JupiterDemoNETCore.Controllers
         {
             ViewData["Message"] = "Your application description page.";
 
+            var x dfdf 
+
+
             return View();
         }
 
